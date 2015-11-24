@@ -24,7 +24,7 @@
 	
 	
 
-![](git.png)
+![](img/git.png)
 
 ---
 
@@ -187,7 +187,7 @@ The name of our remote is origin and the default local branch name is master. Th
 One last trick: Go to github and find the "create a new repo button" Give it a name and notice there is a useful hint as to what to do next:
 
 
-![](sample-worklfow-breakdown.png)
+![](img/sample-worklfow-breakdown.png)
 
 
 
